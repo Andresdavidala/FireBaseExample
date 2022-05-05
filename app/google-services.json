@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213307902389",
+    "project_id": "fir-example-2580b",
+    "storage_bucket": "fir-example-2580b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213307902389:android:46f69d58239de4a89831fc",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213307902389-4mmslq8e7bg737qqp3o41ed9n9q6meb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzmSTKuZeHO-J9PTRwAAZllQ8Y6yYKq-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213307902389-4mmslq8e7bg737qqp3o41ed9n9q6meb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
